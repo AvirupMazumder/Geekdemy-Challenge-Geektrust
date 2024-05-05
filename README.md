@@ -1,3 +1,10 @@
+# Geekdemy - LLD
+
+* Machine Coding Problem Statement:  https://www.geektrust.com/coding/detailed/geekdemy.
+* This problem is solved during Code with Geektrust Hackathon on May 2 2024. 
+* The low level design code reads data input from file . After reading the input commands, processes them & prints output on command line interface.
+
+* This code has earned all the required badges : Maintanability , Readability , Tests , Correctness , Build.
 
 # Pre-requisites
 * Java 1.8/1.11/1.15
